@@ -1,15 +1,17 @@
-#Week 1 - HTML CSS Refactoring Coding Challenge submission by Marian Nicole Borja 
+Week 1 - HTML CSS Refactoring Coding Challenge submission by Marian Nicole Borja 
 
-##Project Overview
+Project Overview
+---------------------
 
 Students were given the task of optimizing SEO and refactoring code for Horiseon. Coding neederd to follow accesibility standards, include semantic elements, and be optimized for search engines. 
 
-##Table of Contents
--[Acceptance Criteria](#Acceptance-Criteria)
--[Deployed Image](#Deployed-Image)
--[Modifications](#Modifications)
+Table of Contents
+1. Acceptance Criteria
+2. Deployed Image
+3. Modifications
 
-##Acceptance Criteria
+Acceptance Criteria
+-----------------------
 In order to complete this task, students were asked to do the following:
 -Source code must be visible.
 -Source code must contain semantic HTML elements
@@ -18,10 +20,15 @@ In order to complete this task, students were asked to do the following:
 - Heading attributes must be in sequential order
 - Title element must have a descriptive title
 
-##Deployed Image
+Deployed Image
+-----------------------
 ![DeployedPage](https://user-images.githubusercontent.com/108310424/178422834-0feaec25-2c22-4fa9-b513-c9de9557b3e0.jpg)
 
-##Modifications
+https://mvricole.github.io/Week1_RefactorChallenge_MNBorja/
+
+Modifications
+-----------------------
+
 Student did the following to achieve requested results.
 - Simplified HTML and CSS style elements
 - Added a descriptive webpage title 
@@ -29,6 +36,7 @@ Student did the following to achieve requested results.
 - Created alt attributes for all images using SEO words and descriptive phrases
 - Reordered CSS elements to improve flow of source code
 
-##Contributions
+Contributions
+-----------------------
 Source code editing done by Marian "Nicole" Borja
 July 2022
